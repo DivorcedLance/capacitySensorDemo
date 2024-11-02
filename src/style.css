@@ -19,6 +19,11 @@ canvas {
   left: 10px;
 }
 
+#info p:last-child {
+  font-weight: bold;
+  color: #555;
+  margin-top: 10px;
+}
 
 #oscillator {
   position: absolute;
